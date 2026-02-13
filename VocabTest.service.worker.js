@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1770979855|12428209371';
+const CACHE_VERSION = '1770980139|12712008199';
 /** @type {string} */
 const CACHE_PREFIX = 'VocabTest-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
